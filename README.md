@@ -1,2 +1,2 @@
-# virtual-communication-service
+# virtual-communication-distribution
 communication service
